@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "title": "rent",
+        "content": "jan--323\nfeb--42\nmar--34",
+        "tag": "",
+        "date": "02 Aug 2026",
+        "pinned": false
+    },
+    {
+        "id": 2,
+        "title": "money",
+        "content": "sat--23\nsun--53\n",
+        "tag": "",
+        "date": "02 Aug 2026",
+        "pinned": false
+    }
+]

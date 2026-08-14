@@ -1,0 +1,8 @@
+{
+    "model": "nvidia/nemotron-3-ultra-550b-a55b",
+    "top_k": 5,
+    "temperature": 0.3,
+    "style": "balanced",
+    "chunk_size": 500,
+    "chunk_overlap":100
+}
