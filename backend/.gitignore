@@ -13,3 +13,9 @@ chroma_db/
 
 # Uploaded files
 uploads/
+# Runtime data
+activity.json
+notes.json
+
+.pytest_cache/
+.mypy_cache/
